@@ -1,0 +1,93 @@
+[
+    {
+        "title": "What temperature does water boil at?",
+        "answer_1": "50 degrees Celcius",
+        "answer_2": "25 degrees Celcius",
+        "answer_3": "100 degrees Celcius",
+        "answer_4": "150 degrees Celcius",
+        "right_answer": "100 degrees Celcius"
+    },
+
+    {
+        "title": "Which is the only mammal that can’t jump?",
+        "answer_1": "Dog",
+        "answer_2": "Elephant",
+        "answer_3": "Goat",
+        "answer_4": "Lion",
+        "right_answer": "Elephant"
+    },
+
+    {
+        "title": "Who lived at 221B, Baker Street, London?",
+        "answer_1": "Tony Stark",
+        "answer_2": "Morgan Freeman",
+        "answer_3": "Sherlock Holmes",
+        "answer_4": "Samuel L. Jackson",
+        "right_answer": "Sherlock Holmes"
+    },
+
+    {
+        "title": "What colour is a panda?",
+        "answer_1": "Green and Yellow",
+        "answer_2": "Blue and Red",
+        "answer_3": "Green and White",
+        "answer_4": "Black and White",
+        "right_answer": "Black and White"
+    },
+
+    {
+        "title": "Where is the smallest bone in the human body?",
+        "answer_1": "The Chest",
+        "answer_2": "The Ear",
+        "answer_3": "The Legs",
+        "answer_4": "The Hands",
+        "right_answer": "The Ear"
+    },
+
+    {
+        "title": "What does the roman numeral C represent?",
+        "answer_1": "100",
+        "answer_2": "10",
+        "answer_3": "10,000",
+        "answer_4": "1,000,000",
+        "right_answer": "100"
+    },
+
+    
+    {
+        "title": "Who painted the Mona Lisa?",
+        "answer_1": "Alexander Graham Bell",
+        "answer_2": "Sir Isaac Newton",
+        "answer_3": "Leonardo Da Vinci",
+        "answer_4": "Albert Einstein",
+        "right_answer": "Leonardo Da Vinci"
+    },
+
+    {
+        "title": "What’s the most important book in the Moslem religion?",
+        "answer_1": "The Koran",
+        "answer_2": "The Dictionary",
+        "answer_3": "The Bible",
+        "answer_4": "The Chemistry text Book",
+        "right_answer": "The Koran"
+    },
+
+
+    {
+        "title": "How many squares are there on a chess board?",
+        "answer_1": "128",
+        "answer_2": "64",
+        "answer_3": "32",
+        "answer_4": "256",
+        "right_answer": "64"
+    },
+
+    {
+        "title": "Who invented the electric light bulb?",
+        "answer_1": "Tom Cruise",
+        "answer_2": "Barack Obama",
+        "answer_3": "Wole Soyinka",
+        "answer_4": "Thomas Edison",
+        "right_answer": "Thomas Edison"
+    }
+]
